@@ -363,6 +363,7 @@ The created files come with blank description in their comment headers.
 * Logo
 * Lua
 * MATLAB
+* NASM
 * Nemerle
 * Nim
 * ObjectiveC
